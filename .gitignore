@@ -2,3 +2,12 @@ DataIntermediate/PS_Index_Cafine.tif
 DataIntermediate/PS_Index_Elalab.tif
 Codes/token.json
 DataIntermediate/PS_Index_Enchugal.tif
+DataIntermediate/PS_Index_filtered_Cafine.tif
+DataIntermediate/PS_Index_filtered_Elalab.tif
+DataIntermediate/PS_Index_filtered_Enchugal.tif
+Results/Cafine_RF_Modeled_CE.tif
+Results/Cafine_RF_Modeled_CE.tif.msk
+Results/Elalab_RF_Modeled_CE.tif
+Results/Elalab_RF_Modeled_CE.tif.msk
+Results/Enchugal_RF_Modeled_CE.tif
+Results/Enchugal_RF_Modeled_CE.tif.msk
